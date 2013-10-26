@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'cartogothic_stdbold';
+    src: url('CartoGothicStd-Bold-webfont.eot');
+    src: url('CartoGothicStd-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('CartoGothicStd-Bold-webfont.woff') format('woff'),
+         url('CartoGothicStd-Bold-webfont.ttf') format('truetype'),
+         url('CartoGothicStd-Bold-webfont.svg#cartogothic_stdbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
